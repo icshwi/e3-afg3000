@@ -1,0 +1,4 @@
+[submodule "m-epics-afg3000"]
+	path = m-epics-afg3000
+	url = https://bitbucket.org/europeanspallationsource/m-epics-afg3000
+	ignore = all
